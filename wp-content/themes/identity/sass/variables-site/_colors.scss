@@ -1,0 +1,119 @@
+// Color pallette.
+$black: #202020;
+$red: #dc143c;
+$white: #ffffff;
+$white: #ecf0f1;
+$grey: #4b6a88;
+
+// Background colors.
+$color__background-body: #1c2a43;
+$color__background-screen: #f1f1f1;
+$color__background-hr: #ccc;
+$color__background-button: #e6e6e6;
+$color__background-pre: rgba(32,32,32,0.9);
+$color__background-ins: $red;
+$color__background-social-menu-items: $black; //Straks weg.
+
+
+// Header colors.
+$color__header-background: $black;
+$color__header-social-background: rgba(32,32,32,0.9);
+$color__header-social-background-hover: rgba(32,32,32,0.75);
+$color__header-site-title: $white;
+$color__header-site-title-hover: $red;
+$color__header-author-title: $white;
+$color__header-author-title-hover: $red;
+$color__header-author-description: $white;
+$color__header-background-overlay: radial-gradient(ellipse at center, rgba(0,0,0,0.25) 0%,rgba(0,0,0,0.5) 100%);
+//$color__header-background-overlay: radial-gradient(ellipse at center, rgba(28,42,67,0.25) 0%,rgba(28,42,67,0.5) 100%);
+//$color__header-background-overlay: radial-gradient(ellipse at center, rgba(32,32,32,0.25) 0%,rgba(32,32,32,0.5) 100%);
+
+// Menu colors.
+$color__button-menu-background: $white;
+$color__button-menu-lines: $black;
+$color__mobile-menu-links: $white;
+$color__mobile-menu-links-hover: $black;
+$color__mobile-menu-background-hover: $white;
+$color__desktop-menu-links: $white;
+$color__desktop-menu-links-hover: $red;
+$color__desktop-menu-background: rgba(32,32,32,0.9);
+
+// Content colors.
+$color__sidebar-text: $white;
+$color__sidebar-bullets: $red;
+$color__sidebar-background: rgba(32,32,32,0.9);
+$color__headings: $white;
+$color__headings-alt: $black;
+$color__headings-hover: $red;
+$color__image-overlay: rgba(32,32,32,0.9);
+$color__comments-background: rgba(32,32,32,0.9);
+$color__archive-page-header-background: rgba(32,32,32,0.9);
+
+// Post format colors.
+$color__pf-standard-text: $white;
+$color__pf-standard-background: #1c2a43; // Dark Blue.
+$color__pf-aside-text: $white;
+$color__pf-aside-background: #004d86; // Light Blue.
+$color__pf-quote-text: $white;
+$color__pf-quote-background: #2e343b; // Black.
+$color__pf-link-text: $white;
+$color__pf-link-background: #753394; // Purple.
+$color__pf-link-background: $grey; // Purple.
+$color__pf-image-text: $black;
+$color__pf-image-background: #e2b123; // Yellow.
+$color__pf-gallery-text: $white;
+$color__pf-gallery-background: #006d52; // Green.
+$color__pf-status-text: $white;
+$color__pf-status-background: #d35400; // Orange.
+$color__pf-video-text: $white;
+$color__pf-video-background: #a72012; // Dark Red.
+$color__pf-audio-text: $white;
+$color__pf-audio-background: #008080; 
+$color__pf-chat-text: $black;
+$color__pf-chat-background: #7f8c8d; // Asbestos grey.
+
+// Text and link colors.
+$color__entry-meta-background: rgba(32,32,32,0.9);
+$color__text-screen: #21759b;
+$color__text-input: #666;
+$color__text-input-focus: #111;
+$color__link: $red;
+$color__link-visited: $red;
+$color__link-hover: $red;
+$color__link-grey: $grey;
+$color__link-black: $black;
+$color__link-blue: #1c2a43;
+$color__link-yellow: #e2b123;
+$color__link-hover-alt: $white;
+$color__text-main: $white;
+$color__text-alt: $black;
+$color__text-search-bar: yellow;
+$color__blockquote-background: #2e343b;
+$color__blockquote-border: $red;
+
+// Table colors.
+$color__table-header-background: $red;
+$color__table-footer-background: $white;
+$color__table-border-color: $black;
+$color__table-border-color-widgets: #181818;
+
+// Button colors.
+$color__button-background: $black;
+$color__button-background-hover: $red;
+$color__button-text: $white;
+$color__button-text-hover: $black;
+
+// Footer colors.
+$color__background-footer: $black;
+$color__footer-text: $white;
+$color__site-info-text: $white;
+$color__site-info-link: $grey;
+$color__site-info-link-hover: $red;
+
+
+
+$color__border-button: #ccc #ccc #bbb;
+$color__border-button-hover: #ccc #bbb #aaa;
+$color__border-button-focus: #aaa #bbb #bbb;
+$color__border-input: #ccc;
+$color__border-abbr: #666;
